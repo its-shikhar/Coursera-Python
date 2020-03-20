@@ -11,5 +11,6 @@ def celcius_to_fahrenheit(temp):
     newTemp = (9*(temp)/5)+32
     print("The Celcius temperature", temp, "is equivalent to", newTemp,end='')
     print(" degrees Fahrenheit")
-
+    print("I made this change")
+    print("I also made this change")
 #%%
